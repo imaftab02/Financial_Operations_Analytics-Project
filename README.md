@@ -100,8 +100,8 @@ pip package manager
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/financial-operations-analytics.git
-cd financial-operations-analytics
+git clone https://github.com/imaftab02/Financial_Operations_Analytics-Project.git
+cd Financial-Operations-Analytics-Project
 ```
 
 2. **Install dependencies**
